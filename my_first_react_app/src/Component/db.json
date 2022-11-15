@@ -1,0 +1,163 @@
+[
+    {
+    "image":"https://i.ibb.co/fGVmVYp/810-Rscvmd4-L-AC-UY327-QL65.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":31,
+    "sub_category_name":"Mobiles",
+    "brand":"Samsung",
+    "description":"Samsung Galaxy M53 5G (Mystique Green, 8GB, 128GB Storage) | 108MP | sAmoled+ 120Hz | 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
+    "new_price":23999,
+    "old_price":34999,
+    "discount":31,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":1
+    },
+    
+    {
+    "image":"https://i.ibb.co/2ktx5Bg/71ge-Vdy6-OS-SX679.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":31,
+    "sub_category_name":"Mobiles",
+    "brand":"OPPO",
+    "description":"OPPO A74 5G (Fantastic Purple,6GB RAM,128GB Storage) with No Cost EMI/Additional Exchange Offers",
+    "new_price":14990,
+    "old_price":20990,
+    "discount":29,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":2
+    },
+    
+    {
+    "image":"https://i.ibb.co/FX1wQDd/517a1ax5-Ti-L-SX679.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":31,
+    "sub_category_name":"Mobiles",
+    "brand":"OnePlus",
+    "description":"OnePlus Nord N20 SE (Blue Oasis 4GB RAM 64GB Storage) Smartphone",
+    "new_price":16400,
+    "old_price":24990,
+    "discount":34,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":3
+    },
+    
+    {
+    "image":"https://i.ibb.co/jwKbzbr/71-Od5y-Jboh-L-SX679.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":31,
+    "sub_category_name":"Mobiles",
+    "brand":"Xiaomi",
+    "description":"Xiaomi 11T Pro 5G Hyperphone (Celestial Magic, 8GB RAM, 256GB Storage) |SD 888|120W HyperCharge|Segment's only Phone with Dolby Vision+Dolby Atmos",
+    "new_price":36999,
+    "old_price":52999,
+    "discount":30,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":4
+    },
+    
+    {
+    "image":"https://i.ibb.co/SV6qCry/817cl-KAKcq-L-SX679.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":31,
+    "sub_category_name":"Mobiles",
+    "brand":"Redmi",
+    "description":"Redmi 10 Prime (Phantom Black 4GB RAM 64GB | Helio G88 with extendable RAM Upto 2GB | FHD+ 90Hz Adaptive Sync Display)",
+    "new_price":10999,
+    "old_price":14999,
+    "discount":27,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":5
+    },
+    
+    {
+    "image":"https://i.ibb.co/DgzR8PQ/61-AFUMyh5-QL-SY879.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":31,
+    "sub_category_name":"Mobiles",
+    "brand":"iQOO",
+    "description":"iQOO Z6 44W (Lumina Blue, 4GB RAM, 128GB Storage)",
+    "new_price":13999,
+    "old_price":19999,
+    "discount":30,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":6
+    },
+    
+    {
+    "image":"https://i.ibb.co/PQJ205Y/81v-DZy-JQ-4-L-SY879.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":31,
+    "sub_category_name":"Mobiles",
+    "brand":"Samsung",
+    "description":"Samsung Galaxy S20 FE 5G (Cloud Navy, 8GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers",
+    "new_price":29999,
+    "old_price":74999,
+    "discount":60,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":7
+    },
+    
+    {
+    "image":"https://i.ibb.co/KxcsMrt/716f-AVud8-PL-SX679.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":31,
+    "sub_category_name":"Mobiles",
+    "brand":"iPhone",
+    "description":"iPhone 14 Plus 512GB (Product) RED",
+    "new_price":119900,
+    "old_price":119900,
+    "discount":0,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":8
+    },
+    
+    {
+    "image":"https://i.ibb.co/9GdBn73/71x-m2-yb7-L-SX679.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":31,
+    "sub_category_name":"Mobiles",
+    "brand":"Nokia",
+    "description":"Nokia G21 Android Smartphone( Dual SIM, 3-Day Battery Life, 6GB RAM + 128GB Storage)| 50MP Triple AI Camera | Nordic Blue",
+    "new_price":14499,
+    "old_price":16999,
+    "discount":15,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":9
+    },
+    
+    {
+    "image":"https://i.ibb.co/zRNH6sx/81vkmw6-Ngx-L-SX679.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":31,
+    "sub_category_name":"Mobiles",
+    "brand":"realme",
+    "description":"realme narzo 50i Prime (Mint Green 3GB RAM+32GB Storage) Octa-core Processor | 5000 mAh Battery",
+    "new_price":7166,
+    "old_price":8999,
+    "discount":20,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":10
+    }
+    
+    ]
+    

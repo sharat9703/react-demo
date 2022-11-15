@@ -1,0 +1,52 @@
+import React,{Component} from "react";
+
+class Header extends Component{
+constructor(){
+    super();
+}
+
+render(){
+    const myStyle={
+    header:{
+        backgroundColor:"tomato",
+        textAlign:'center'
+    },
+    logo:{
+        textAlign:'center',
+        fontSize:'30px',
+        color:'white'
+    }
+    }
+
+    return(
+        <div>
+            <div>
+               <header style={myStyle.header}>
+               <h2 style={myStyle.logo}>React here</h2>
+                <input/>
+                <p style={myStyle.logo}>User text here!</p>
+                </header> 
+            </div>
+            <center>
+                <h1>Hello React!!!!!</h1>
+            </center>
+            <hr/>
+        </div>
+    )
+}
+
+}
+
+
+/*const Header = ()=>{
+    return (
+        <>
+            <center><h1>Hello React!!</h1></center>
+            <hr/>
+        </>
+    )
+}
+*/
+export default Header;
+
+/*well,instead of <div></div> <></> can be used, but only to wrap things but you can't target that div*/
